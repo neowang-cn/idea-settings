@@ -91,11 +91,6 @@
           <option name="VALUES_FILTER_ENABLED" value="false" />
         </configuration>
       </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
-        </configuration>
-      </debugger>
     </debuggers>
   </component>
 </application>
