@@ -18,6 +18,10 @@
           <option name="url" value="https://git.uidt.net/ailock_frontend/alpub_APP_Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.uidt.net/ailock_frontend/uidt_home_mpaas_Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Workplace" />
