@@ -22,9 +22,13 @@
           <option name="url" value="https://git.uidt.net/ailock_frontend/uidt_home_mpaas_Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.uidt.net/ailock_frontend/ailock_BLE_SDK.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Workplace" />
+    <option name="cloneParentDir" value="D:\Android\Uidt" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
