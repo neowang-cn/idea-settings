@@ -4,10 +4,10 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="Specification" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
     </extensionMap>
   </component>
