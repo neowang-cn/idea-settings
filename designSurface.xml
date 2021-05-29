@@ -1,0 +1,35 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Github/Jetpack-Mvvm/app/src/main/res/layout/activity_main.xml" value="0.19021739130434784" />
+        <entry key="..\:/Android/Github/Jetpack-Mvvm/app/src/main/res/layout/fragment_main.xml" value="0.19021739130434784" />
+        <entry key="..\:/Android/Github/Jetpack-Mvvm/app/src/main/res/layout/fragment_mine.xml" value="0.19021739130434784" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/activity_add_bj_receiver.xml" value="0.18931159420289856" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/activity_capture_scanner.xml" value="0.35104166666666664" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/activity_choose_house_num.xml" value="0.18931159420289856" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/activity_face_success.xml" value="0.35104166666666664" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/activity_knot_key_detail.xml" value="0.35104166666666664" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/activity_ling_qu_lock.xml" value="0.35104166666666664" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/activity_my_key_info.xml" value="0.35104166666666664" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/activity_search_lock_list.xml" value="0.35104166666666664" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/activity_zl_house_infos.xml" value="0.18931159420289856" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/adapter_qrtzr_info.xml" value="0.25" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/choose_custom_face_key.xml" value="0.35104166666666664" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/dialog_qrtzr_data_info.xml" value="0.1707193515704154" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/fragment_open_door.xml" value="0.18931159420289856" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/layout_new_lock_item.xml" value="0.1" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/layout_search_lock_item.xml" value="0.35104166666666664" />
+        <entry key="..\:/Uidt/Workplace/alpub_APP_Android/app/src/main/res/layout/popup_window_renzheng_tishi.xml" value="0.35104166666666664" />
+        <entry key="..\:/Uidt/Workplace/uidt_home_mpaas_Android/app/src/main/res/drawable/bg_border_13dp_gray.xml" value="0.36614583333333334" />
+        <entry key="..\:/Uidt/Workplace/uidt_home_mpaas_Android/app/src/main/res/drawable/bg_corner_15dp_white.xml" value="0.36614583333333334" />
+        <entry key="..\:/Uidt/Workplace/uidt_home_mpaas_Android/app/src/main/res/drawable/bg_corner_16p_grey_66.xml" value="0.36614583333333334" />
+        <entry key="..\:/Uidt/Workplace/uidt_home_mpaas_Android/app/src/main/res/drawable/bg_corner_8dp_grey.xml" value="0.36614583333333334" />
+        <entry key="..\:/Uidt/Workplace/uidt_home_mpaas_Android/app/src/main/res/drawable/bg_splash.xml" value="0.36614583333333334" />
+        <entry key="..\:/Uidt/Workplace/uidt_home_mpaas_Android/app/src/main/res/layout/activity_about.xml" value="0.1707193515704154" />
+        <entry key="..\:/Uidt/Workplace/uidt_home_mpaas_Android/app/src/main/res/layout/activity_splash.xml" value="0.33" />
+        <entry key="..\:/Uidt/Workplace/uidt_home_mpaas_Android/app/src/main/res/layout/dialog_common.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
