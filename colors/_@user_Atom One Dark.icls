@@ -4,17 +4,17 @@
     <property name="created">2020-12-10T14:45:02</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.1.0</property>
-    <property name="modified">2021-10-09T10:45:00</property>
+    <property name="modified">2021-11-09T14:21:04</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
@@ -28,7 +28,7 @@
     <option name="ADDED_LINES_COLOR" value="91b859" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="557ecf" />
-    <option name="CARET_ROW_COLOR" value="3e4756" />
+    <option name="CARET_ROW_COLOR" value="2c323c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282c34" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
@@ -62,7 +62,7 @@
     <option name="INFORMATION_HINT" value="282c34" />
     <option name="LINE_NUMBERS_COLOR" value="636d83" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c6c6c6" />
-    <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
+    <option name="METHOD_SEPARATORS_COLOR" value="44535b" />
     <option name="MODIFIED_LINES_COLOR" value="61aeef" />
     <option name="MT_ADDED" value="73c990" />
     <option name="MT_DELETED" value="ff6347" />
@@ -79,9 +79,9 @@
     <option name="RIGHT_MARGIN_COLOR" value="3c4049" />
     <option name="SELECTED_INDENT_GUIDE" value="57b6c2" />
     <option name="SELECTED_TEARLINE_COLOR" value="57b6c2" />
-    <option name="SELECTION_BACKGROUND" value="8f95a4" />
+    <option name="SELECTION_BACKGROUND" value="3e4451" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
-    <option name="SEPARATOR_BELOW_COLOR" value="3c4049" />
+    <option name="SEPARATOR_BELOW_COLOR" value="717786" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3c4049" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="2979ffc0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="282c34" />
@@ -413,6 +413,7 @@
       <value>
         <option name="FOREGROUND" value="c679dd" />
         <option name="EFFECT_COLOR" value="c679dd" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -465,7 +466,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8f9db1" />
+        <option name="FOREGROUND" value="59626f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -501,7 +502,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="818da0" />
+        <option name="FOREGROUND" value="59626f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -520,7 +521,7 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="818da0" />
+        <option name="FOREGROUND" value="59626f" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -594,7 +595,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8f9db1" />
+        <option name="FOREGROUND" value="59626f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

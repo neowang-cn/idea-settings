@@ -1,6 +1,10 @@
 <application>
   <component name="AtomFileIconsConfig">
-    <option name="accentColor" value="697285" />
-    <option name="themedColor" value="c6c6cc" />
+    <option name="enabledIcons" value="false" />
+    <option name="enabledUIIcons" value="false" />
+    <option name="isEnabledIcons" value="false" />
+    <option name="isEnabledUIIcons" value="false" />
+    <option name="accentColor" value="999999" />
+    <option name="themedColor" value="bbbbbb" />
   </component>
 </application>
