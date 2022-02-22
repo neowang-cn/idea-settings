@@ -5,25 +5,25 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.0.105:5555" />
+            <value value="9c0a7e14" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-21T06:24:48.109707700Z" />
-        <name value="rockchip ID860-D" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
+        <lastOnlineTime value="2022-02-22T06:02:47.603643900Z" />
+        <name value="Xiaomi M2101K9C" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="9c0a7e14" />
+            <value value="192.168.0.105:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-10T05:53:33.521139Z" />
-        <name value="Xiaomi M2101K9C" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <lastOnlineTime value="2022-02-22T06:02:47.605643900Z" />
+        <name value="rockchip ID860-D" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
