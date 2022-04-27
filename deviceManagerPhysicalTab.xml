@@ -31,10 +31,9 @@
             <value value="79UDU19926005771" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-27T06:52:40.497708300Z" />
-        <name value="HUAWEI HRY-AL00a" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
