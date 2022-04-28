@@ -8,6 +8,7 @@
             <value value="9c0a7e14" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-04-28T01:54:11.800424200Z" />
         <name value="Xiaomi M2101K9C" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -31,9 +32,9 @@
             <value value="79UDU19926005771" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <name value="HUAWEI HRY-AL00a" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
