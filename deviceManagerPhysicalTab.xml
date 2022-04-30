@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="9c0a7e14" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-29T01:41:48.719401600Z" />
+        <name value="Xiaomi M2101K9C" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.58.62:5555" />
           </Key>
         </key>
@@ -12,6 +24,51 @@
         <name value="rockchip ID860-D" />
         <target value="Android 7.1.1" />
         <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="79UDU19926005771" />
+          </Key>
+        </key>
+        <name value="HUAWEI HRY-AL00a" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="b3c47e00" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2011K2C" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="FML4C19C27008750" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-25T07:05:16.720359900Z" />
+        <name value="HUAWEI WLZ-AL10" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="UYT5T18524001646" />
+          </Key>
+        </key>
+        <name value="HUAWEI ALP-AL00" />
+        <target value="Android 8.1" />
+        <api value="27" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
