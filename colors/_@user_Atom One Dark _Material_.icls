@@ -1,61 +1,66 @@
-<scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Atom One Dark (Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-12-10T14:45:02</property>
+    <property name="created">2022-05-10T15:41:27</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">4.1.1.0</property>
+    <property name="ideVersion">2021.2.1.14</property>
     <property name="modified">2022-05-11T14:02:39</property>
-    <property name="originalScheme">Atom One Dark</property>
+    <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Lucida Sans Typewriter" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="91b859" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
+    <option name="ActionButton.hoverBackground" value="383d48c0" />
+    <option name="ActionButton.iconTextForeground" value="979fad" />
+    <option name="ActionButton.pressedBackground" value="383d48" />
+    <option name="BookmarkIcon.background" value="2979ff" />
     <option name="CARET_COLOR" value="557ecf" />
     <option name="CARET_ROW_COLOR" value="2c323c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282c34" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
+    <option name="DIAGRAM_ANNOTATION_EDGE" value="61aeef" />
+    <option name="DIAGRAM_DEFAULT_EDGE" value="abb2bf" />
+    <option name="DIAGRAM_GENERALIZATION_EDGE" value="e5c17c" />
+    <option name="DIAGRAM_INNER_EDGE" value="c679dd" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="282c34" />
+    <option name="DIAGRAM_NODE_HEADER" value="3a3f4b" />
+    <option name="DIAGRAM_NOTE_BACKGROUND" value="282c34" />
+    <option name="DIAGRAM_NOTE_BORDER" value="abb2bf" />
+    <option name="DIAGRAM_REALIZATION_EDGE" value="d19a66" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="282c34" />
+    <option name="DOCUMENTATION_COLOR" value="2f333d" />
     <option name="DOC_COMMENT_GUIDE" value="636d83" />
     <option name="DOC_COMMENT_LINK" value="56b6c2" />
-    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_ADDED" value="98c379" />
     <option name="FILESTATUS_COPIED" value="98c379" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_DELETED" value="59626f" />
+    <option name="FILESTATUS_HIJACKED" value="c679dd" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
     <option name="FILESTATUS_MERGED" value="61aeef" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_MODIFIED" value="e5c17c" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_RENAMED" value="c679dd" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_SUPPRESSED" value="abb2bf" />
+    <option name="FILESTATUS_SWITCHED" value="61aeef" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="56b6c2" />
     <option name="FILESTATUS_changelistConflict" value="ff6347" />
@@ -64,17 +69,44 @@
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="INDENT_GUIDE" value="3c4049" />
     <option name="INFORMATION_HINT" value="282c34" />
+    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="282a36" />
+    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="3e4451" />
+    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="3a3f4b" />
     <option name="LINE_NUMBERS_COLOR" value="636d83" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c6c6c6" />
-    <option name="METHOD_SEPARATORS_COLOR" value="44535b" />
+    <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="61aeef" />
+    <option name="MODIFIED_TAB_ICON" value="2979ff" />
     <option name="MT_ADDED" value="73c990" />
     <option name="MT_DELETED" value="ff6347" />
+    <option name="MT_FILESTATUS_ADDED" value="98c379" />
+    <option name="MT_FILESTATUS_COPIED" value="98c379" />
+    <option name="MT_FILESTATUS_DELETED" value="59626f" />
+    <option name="MT_FILESTATUS_HIJACKED" value="c679dd" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
+    <option name="MT_FILESTATUS_MERGED" value="61aeef" />
+    <option name="MT_FILESTATUS_MODIFIED" value="e5c17c" />
+    <option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
+    <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
+    <option name="MT_FILESTATUS_RENAMED" value="c679dd" />
+    <option name="MT_FILESTATUS_SUPPRESSED" value="abb2bf" />
+    <option name="MT_FILESTATUS_SWITCHED" value="61aeef" />
+    <option name="MT_FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="MT_FILESTATUS_addedOutside" value="56b6c2" />
+    <option name="MT_FILESTATUS_changelistConflict" value="ff6347" />
+    <option name="MT_FILESTATUS_modifiedOutside" value="61aeef" />
     <option name="MT_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_MODIFIED" value="e2c08d" />
     <option name="MT_RENAMED" value="6494ed" />
     <option name="MT_SUPPRESSED" value="abb2bf" />
+    <option name="MnemonicIcon.background" value="3e4451" />
+    <option name="MnemonicIcon.borderColor" value="3e4451" />
+    <option name="MnemonicIcon.foreground" value="fffbf7" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="979fad" />
     <option name="PROMOTION_PANE" value="21252b" />
@@ -85,7 +117,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="57b6c2" />
     <option name="SELECTION_BACKGROUND" value="3e4451" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
-    <option name="SEPARATOR_BELOW_COLOR" value="717786" />
+    <option name="SEPARATOR_BELOW_COLOR" value="3c4049" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3c4049" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="2979ffc0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="282c34" />
@@ -196,6 +228,11 @@
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="2979ff" />
+      </value>
+    </option>
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -417,6 +454,7 @@
       <value>
         <option name="FOREGROUND" value="c679dd" />
         <option name="EFFECT_COLOR" value="c679dd" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -1176,6 +1214,17 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="979fad" />
+        <option name="BACKGROUND" value="21252b" />
+      </value>
+    </option>
+    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="979fad" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="979fad" />
@@ -1225,6 +1274,11 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
+    <option name="JS.GET_SET">
+      <value>
+        <option name="FOREGROUND" value="56b6c2" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
@@ -1234,6 +1288,11 @@
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="JS.INLINE">
+      <value>
+        <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -1265,6 +1324,11 @@
     <option name="JS.NULL_UNDEFINED">
       <value>
         <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="JS.PROTOTYPE">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -1432,6 +1496,12 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="2979ff" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
+      <value>
+        <option name="FOREGROUND" value="59626f" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
@@ -2728,7 +2798,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="70757e" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
@@ -2885,6 +2955,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PHP_THIS_VAR">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -2978,6 +3053,11 @@
     <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
     <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP_MATCHED_GROUPS">
+      <value>
+        <option name="BACKGROUND" value="6b727d" />
+      </value>
+    </option>
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="252b39" />
@@ -3183,6 +3263,8 @@
     </option>
     <option name="RUNTIME_ERROR">
       <value>
+        <option name="EFFECT_COLOR" value="e06c75" />
+        <option name="ERROR_STRIPE_COLOR" value="e06c75" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3546,10 +3628,25 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="TS.ANY">
+      <value>
+        <option name="FOREGROUND" value="56b6c2" />
+      </value>
+    </option>
+    <option name="TS.INLINE">
+      <value>
+        <option name="FOREGROUND" value="56b6c2" />
+      </value>
+    </option>
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="98c379" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.PRIM_TYPE">
+      <value>
+        <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
     <option name="TS.TYPE_GUARD">
