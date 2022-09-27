@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="level:ERROR " />
         <option value="package:mine level:ERROR " />
         <option value="level:WARN " />
         <option value="package:mine" />
