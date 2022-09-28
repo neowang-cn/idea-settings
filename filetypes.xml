@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="md" type="PLAIN_TEXT" />
@@ -8,6 +9,7 @@
       <mapping ext="model" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="klib" type="PLAIN_TEXT" />
+      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="klib" approved="true" type="ARCHIVE" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
