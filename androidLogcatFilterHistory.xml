@@ -4,8 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine tag:OkHttp" />
+        <option value="package:mine tag:东联悦家" />
+        <option value="package:mine tag:" />
         <option value="package:mine tag:OkHttp " />
+        <option value="package:mine tag:OkHttp" />
         <option value="package:mine level:WARN " />
         <option value="tag:OkHttp " />
         <option value="package:mine level:ERROR " />
