@@ -4,8 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine" />
+        <option value="package:com.newabl.blesdkdemo" />
         <option value="package:com.newabel.blesdkdemo" />
+        <option value="package:mine" />
         <option value="package:mine tag:OkHttp" />
         <option value="package:mine tag:OkHttp " />
         <option value="package:mine level:WARN " />
