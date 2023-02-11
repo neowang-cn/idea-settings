@@ -16,8 +16,10 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="SendFeedbackPanel" value="false" />
         <entry key="UserSentimentPanelNegative" value="false" />
         <entry key="UserSentimentPanelPositive" value="false" />
+        <entry key="mtThemeFactory" value="false" />
       </map>
     </option>
   </component>
