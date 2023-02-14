@@ -2,18 +2,6 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
-        <entry key="atom-one">
-          <value>
-            <PluginData>
-              <option name="category" value="UI" />
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
         <entry key="com.chrisrm.idea.MaterialThemeUI">
           <value>
             <PluginData>
@@ -25,12 +13,14 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.intellij.marketplace">
+        <entry key="com.developerphil.adbidea">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
-                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.androidstudio" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.android" />
                 </set>
               </option>
             </PluginData>
@@ -47,19 +37,6 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.thoughtworks.gauge">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.java" />
-                  <option value="com.intellij.modules.json" />
-                  <option value="com.intellij.properties" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
         <entry key="github.cweijan.test-theme">
           <value>
             <PluginData>
@@ -67,17 +44,6 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="org.jetbrains.java.decompiler">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.java" />
                 </set>
               </option>
             </PluginData>

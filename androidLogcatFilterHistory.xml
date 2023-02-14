@@ -1,22 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
         <option value="package:mine tag:OkHttp " />
-        <option value="package:mine tag:OKHTTP " />
-        <option value="package:mine level:error " />
-        <option value="package:mine level:ERROR " />
-        <option value="package:mine level:WARN " />
-        <option value="level:WARN " />
-        <option value="package:com.newabl.blesdkdemo" />
-        <option value="package:com.newabel.blesdkdemo" />
-        <option value="package:mine" />
+        <option value="package:mine tag:东联悦家" />
+        <option value="package:mine tag:" />
         <option value="package:mine tag:OkHttp" />
+        <option value="package:mine level:WARN " />
         <option value="tag:OkHttp " />
+        <option value="package:mine level:ERROR " />
         <option value="level:ERROR " />
         <option value=" tag:OkHttp " />
         <option value="package:mine tag:小兴管家 " />
+        <option value="package:mine" />
       </list>
     </option>
   </component>
