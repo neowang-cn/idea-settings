@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="-tag=:CamX -tag=:CHIUSECASE -tag=:CHIARCSOFTFB" />
     <option name="nonFavorites">
       <list>
+        <option value="-tag=:CamX -tag=:CHIUSECASE -tag=:CHIARCSOFTFB" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:OkHttp " />
