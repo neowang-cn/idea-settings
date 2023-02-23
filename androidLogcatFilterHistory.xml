@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="-tag=:CamX -tag=:CHIUSECASE -tag=:CHIARCSOFTFB" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="-tag=:CamX -tag=:CHIUSECASE -tag=:CHIARCSOFTFB" />
         <option value="package:mine " />
-        <option value="package:mine" />
         <option value="package:mine tag:OkHttp " />
         <option value="package:mine tag:东联悦家" />
         <option value="package:mine tag:" />
