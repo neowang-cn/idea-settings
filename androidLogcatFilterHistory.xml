@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package=:com.ziroom.zplusproject" />
         <option value="package:mine " />
         <option value="level:ERROR " />
         <option value="package:mine" />
