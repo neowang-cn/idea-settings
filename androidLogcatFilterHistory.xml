@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.uidt.pms " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.uidt.pms " />
         <option value=" package:mine " />
         <option value=" " />
         <option value="package=:com.ziroom.zplusproject" />
-        <option value="package:mine " />
         <option value="level:ERROR " />
         <option value="package:mine" />
         <option value="package:mine tag:FaceInfo" />
