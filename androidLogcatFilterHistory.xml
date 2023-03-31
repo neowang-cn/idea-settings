@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:uidt.net.lock" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:uidt.net.lock" />
         <option value="package:mine level:error " />
-        <option value="package:mine " />
         <option value="package:com.uidt.pms level:error  " />
         <option value="package:com.uidt.pms " />
         <option value=" package:mine " />
