@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:TableRowAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:TableRowAdapter" />
         <option value="package:mine " />
         <option value="package:uidt.net.lock" />
         <option value="package:mine level:error " />
@@ -21,7 +23,6 @@
         <option value="package:mine level:WARN " />
         <option value="tag:OkHttp " />
         <option value="package:mine level:ERROR " />
-        <option value=" tag:OkHttp " />
       </list>
     </option>
   </component>
