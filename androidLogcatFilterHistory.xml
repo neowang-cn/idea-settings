@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  package:com.uidt.pms" />
+    <option name="mostRecentlyUsed" value="package:mine  package:com.uidt.pms level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  package:com.uidt.pms level:error " />
+        <option value="package:mine  package:com.uidt.pms" />
         <option value="package:mine " />
         <option value="package:mine tag:binding" />
         <option value="package:mine tag:BaseFragment" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:OkHttp " />
         <option value="package:mine tag:东联悦家" />
         <option value="package:mine tag:" />
-        <option value="package:mine tag:OkHttp" />
-        <option value="package:mine level:WARN " />
       </list>
     </option>
   </component>
