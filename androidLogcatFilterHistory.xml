@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  tag:FragmentNavigator" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine  tag:FragmentNavigator" />
         <option value="package:mine  " />
         <option value="package:mine  package:com.uidt.pms level:error " />
@@ -12,7 +13,6 @@
         <option value="package:mine tag:BaseFragment" />
         <option value="package:mine tag:TableRowAdapter" />
         <option value="package:uidt.net.lock" />
-        <option value="package:mine level:error " />
         <option value="package:com.uidt.pms level:error  " />
         <option value="package:com.uidt.pms " />
         <option value=" package:mine " />
