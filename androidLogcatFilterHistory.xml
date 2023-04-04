@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine  tag:FragmentNavigator" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:FragmentNavigator" />
         <option value="package:mine  " />
         <option value="package:mine  package:com.uidt.pms level:error " />
         <option value="package:mine  package:com.uidt.pms" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:FaceInfo" />
         <option value="-tag=:CamX -tag=:CHIUSECASE -tag=:CHIARCSOFTFB" />
         <option value="package:mine tag:OkHttp " />
-        <option value="package:mine tag:东联悦家" />
       </list>
     </option>
   </component>
