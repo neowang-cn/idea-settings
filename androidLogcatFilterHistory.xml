@@ -1,28 +1,22 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" level:error " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value=" level:error " />
-        <option value=" " />
-        <option value="package:mine " />
-        <option value="package:mine level:error " />
-        <option value="package:mine  tag:FragmentNavigator" />
-        <option value="package:mine  " />
-        <option value="package:mine  package:com.uidt.pms level:error " />
-        <option value="package:mine  package:com.uidt.pms" />
-        <option value="package:mine tag:binding" />
-        <option value="package:mine tag:BaseFragment" />
-        <option value="package:mine tag:TableRowAdapter" />
-        <option value="package:uidt.net.lock" />
-        <option value="package:com.uidt.pms level:error  " />
-        <option value="package:com.uidt.pms " />
-        <option value=" package:mine " />
-        <option value="package=:com.ziroom.zplusproject" />
-        <option value="level:ERROR " />
+        <option value="package:com.uidt.pms" />
         <option value="package:mine" />
-        <option value="package:mine tag:FaceInfo" />
-        <option value="-tag=:CamX -tag=:CHIUSECASE -tag=:CHIARCSOFTFB" />
+        <option value="package:mine tag:FragmentNavigator" />
+        <option value="package:mine " />
+        <option value="package:mine tag:OkHttp " />
+        <option value="package:mine tag:东联悦家" />
+        <option value="package:mine tag:" />
+        <option value="package:mine tag:OkHttp" />
+        <option value="package:mine level:WARN " />
+        <option value="tag:OkHttp " />
+        <option value="package:mine level:ERROR " />
+        <option value="level:ERROR " />
+        <option value=" tag:OkHttp " />
+        <option value="package:mine tag:小兴管家 " />
       </list>
     </option>
   </component>
