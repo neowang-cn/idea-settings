@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value=" level:error " />
     <option name="nonFavorites">
       <list>
+        <option value=" level:error " />
+        <option value=" " />
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine  tag:FragmentNavigator" />
@@ -15,13 +18,11 @@
         <option value="package:com.uidt.pms level:error  " />
         <option value="package:com.uidt.pms " />
         <option value=" package:mine " />
-        <option value=" " />
         <option value="package=:com.ziroom.zplusproject" />
         <option value="level:ERROR " />
         <option value="package:mine" />
         <option value="package:mine tag:FaceInfo" />
         <option value="-tag=:CamX -tag=:CHIUSECASE -tag=:CHIARCSOFTFB" />
-        <option value="package:mine tag:OkHttp " />
       </list>
     </option>
   </component>
