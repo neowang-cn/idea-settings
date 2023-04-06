@@ -2,6 +2,18 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="atom-one">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.chrisrm.idea.MaterialThemeUI">
           <value>
             <PluginData>
@@ -26,6 +38,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.marketplace">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.mallowigi">
           <value>
             <PluginData>
@@ -37,10 +60,34 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.thoughtworks.gauge">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.json" />
+                  <option value="com.intellij.properties" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="github.cweijan.test-theme">
           <value>
             <PluginData>
               <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="wu.seal.tool.jsontokotlin">
+          <value>
+            <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
