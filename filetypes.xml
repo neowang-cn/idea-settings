@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="1680796800000" type="AUTO_DETECTED" />
       <mapping pattern="registered 25" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="mmap2" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
