@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:OKPRFL" />
         <option value="package:mine level:error " />
         <option value="package:mine" />
         <option value="package:mine tag:全民掌柜  " />
         <option value="package:mine tag:全民掌柜" />
-        <option value="package:mine " />
         <option value="package:mine tag:全民掌柜 " />
         <option value="package:com.uidt.pms" />
         <option value="package:mine tag:FragmentNavigator" />
