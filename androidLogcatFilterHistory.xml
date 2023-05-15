@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="-tag: Expression    -tag:C2SoftVpxEnc level:error " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="-tag: Expression    -tag:C2SoftVpxEnc level:error " />
         <option value="-tag: Expression    " />
         <option value="-tag~:com.miui.home     " />
         <option value="-tag~:" />
-        <option value="package:mine" />
         <option value="package:mine tag:YJX" />
         <option value="package:mine  " />
         <option value="package:mine level:error " />
