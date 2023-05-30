@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:BaseMVI" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:BaseMVI" />
+        <option value="package:mine tag:bindVM" />
         <option value="package:mine" />
         <option value="-tag: Expression    -tag:C2SoftVpxEnc level:error " />
         <option value="-tag: Expression    " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:全民掌柜 " />
         <option value="package:com.uidt.pms" />
         <option value="package:mine tag:FragmentNavigator" />
-        <option value="package:mine tag:东联悦家" />
-        <option value="package:mine tag:" />
       </list>
     </option>
   </component>
