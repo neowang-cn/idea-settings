@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:HandWritingStubImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:HandWritingStubImpl" />
+        <option value="package:mine " />
         <option value="package:mine tag:悦宿" />
         <option value="package:mine tag:悦" />
         <option value="tag:BaseMVI" />
@@ -16,13 +18,11 @@
         <option value="package:mine tag:YJX" />
         <option value="package:mine  " />
         <option value="package:mine level:error " />
-        <option value="package:mine " />
         <option value="package:mine tag:OkHttp " />
         <option value="level:error " />
         <option value="package:mine tag:FaceLockActivity" />
         <option value="package:mine tag:OKPRFL" />
         <option value="package:mine tag:全民掌柜  " />
-        <option value="package:mine tag:全民掌柜" />
       </list>
     </option>
   </component>
