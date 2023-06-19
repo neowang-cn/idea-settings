@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:HandWritingStubImpl" />
+    <option name="mostRecentlyUsed" value="tag:LeakCanary" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LeakCanary" />
         <option value="package:mine -tag~:HandWritingStubImpl" />
         <option value="package:mine " />
         <option value="package:mine tag:悦宿" />
@@ -22,7 +23,6 @@
         <option value="level:error " />
         <option value="package:mine tag:FaceLockActivity" />
         <option value="package:mine tag:OKPRFL" />
-        <option value="package:mine tag:全民掌柜  " />
       </list>
     </option>
   </component>
