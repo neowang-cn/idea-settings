@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine -tag~:HandWritingStubImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:HandWritingStubImpl" />
         <option value="package:mine " />
         <option value="min" />
         <option value="level:error " />
         <option value="tag:LeakCanary" />
-        <option value="package:mine -tag~:HandWritingStubImpl" />
         <option value="package:mine tag:悦宿" />
         <option value="package:mine tag:悦" />
         <option value="tag:BaseMVI" />
