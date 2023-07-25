@@ -2,13 +2,13 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="level:error package:mine " />
         <option value="package:mine " />
         <option value="level:warn " />
         <option value="package:mine tag:YJX" />
         <option value="package:mine level:error " />
         <option value="level:error " />
         <option value="level:error package=:com.ccbhome.lanhai" />
-        <option value="level:error package:mine " />
         <option value="level:error" />
         <option value="package:mine -tag~:HandWritingStubImpl" />
         <option value="min" />
